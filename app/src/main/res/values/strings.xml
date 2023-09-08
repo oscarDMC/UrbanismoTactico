@@ -1,0 +1,14 @@
+<resources>
+<string name="brands">Escoger señal</string>
+<string-array name="beer_colors">
+    <item>Reglamentarias</item>
+    <item>Preventivas</item>
+    <item>Informativas</item>
+    <item>Sancionatorias</item>
+</string-array>
+
+<string name="find_signal">Find Signal</string>
+
+<string name="app_name">Signal Adviser</string>
+
+</resources>
